@@ -1,0 +1,30 @@
+.approve {
+    color: #306 !imposrtant;
+}
+
+.approved {
+    color: #C00;
+}
+
+.red {
+    border: 1px solid #c00!important
+}
+
+.error {
+    color: #c00
+}
+
+.sublist {
+    margin-left: 15px;
+}
+.role_style
+{
+	padding-left: 254px;
+}
+.cancel {
+    color: #3c8dbc !important;
+}
+
+.canceled {
+    color: #C00;
+}
